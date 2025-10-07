@@ -6,6 +6,16 @@ Este tutorial foi criado para quem nunca programou e quer aprender a criar pági
 
 ---
 
+## 🎥 Assista ao vídeo introdutório
+
+Assista ao vídeo introdutório para ter uma base de conhecimento antes de começar o tutorial:
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/WyXcfCPlIlk/maxresdefault.jpg)](https://www.youtube.com/watch?v=WyXcfCPlIlk)
+
+---
+
+Depois, siga o tutorial a seguir 👇
+
 ## 📋 Passo 1: Instalar o VS Code
 
 **O que é o VS Code?**  
